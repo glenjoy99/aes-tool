@@ -1,0 +1,1 @@
+python3 encrypt.py -d +hrogw83gx0QoipQcTrWeqWKprB2Ej3zGnO5I7BTmNA= thisisapassword hCsmBTna6aUAVoHoJXI5og==
